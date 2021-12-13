@@ -1,40 +1,78 @@
-AlertOps Expert Guidance
+10 Best NOC Dashboard Examples (in 2021)
 ========
 
  
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+Your network operations center (NOC) team plays an important role in your enterprise — and you want to do everything possible to help this team succeed. With these 10 best NOC dashboard examples, you can do just that.
 
-Not One Size Fits All
+Bonus Material: NOC Automated Workflow Example PDF
+
+There’s no shortage of NOC dashboard examples, but deciding which ones work best for your enterprise NOC team can be challenging. To help you determine the right dashboards for your NOC team, let’s examine 10 of the best NOC dashboard examples.
+
+1. Incident Management
+====
+An incident management dashboard provides details about active incidents. It shows NOC team members incidents nearing a breach (where an SLA has been violated) and those that have already been breached. It also offers insights into unassigned incidents, open incidents, and other aspects of incident management.
+
+2. SLA Compliance
 =====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+An SLA compliance dashboard lets a NOC team know if any SLAs have been violated. It also illustrates uptime, availability, response time, and other factors related to SLA compliance.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
-
-Automate Processes
+3. Post-Mortem
 ====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+A post-mortem dashboard helps a NOC team understand the root causes of an incident and figure out ways to prevent the incident from happening once again. The dashboard can include relevant details about the incident, along with a root cause analysis, and incident actions and timeline. With this information in hand, NOC team members can develop key takeaways from the incident and update their incident management protocols, processes, and procedures accordingly.
 
-Clarity
+4. Mean Time to Resolution (MTTR) and Mean Time to Acknowledge (MTTA)
 ====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+An MTTR and MTTA dashboard allow NOC team members to determine how long it took to repair an inactive system after it failed and how long it took to respond to an incident. The dashboard makes it simple to track MTTR and MTTA, and over time, can help NOC team members uncover ways to optimize these metrics.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
-
-Insightful Notifications
+5. Service Levels
 ====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+A service-level dashboard can be established to track different service levels. NOC team members can set goals and use a service-level dashboard to view their progress. Additionally, a service-level dashboard allows NOC team members to compare and contrast different service-level metrics in combination with one another, ensuring an enterprise can find ways to meet SLA requirements.
 
-Conclusion
+6. Business/Executive Metrics
 ====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+Business and executive metrics dashboard provides insights into the costs associated with incidents. It can help a NOC team understand how an incident damages their enterprise’s bottom line, along with the incident’s financial impact on the enterprise’s stakeholders.
 
-1 Red Canary 2021 Threat Detection Report
+7. Device Performance
+====
+A device performance dashboard allows a NOC team to see how different devices are being used across an enterprise. The dashboard offers insights into device status, and it can help NOC team members identify ways to continuously improve device performance.
+
+8. Network Performance
+====
+A network performance dashboard helps a NOC team detect network issues before they escalate. The dashboard lets NOC team members look at network performance data in real-time and explore ways to correct network problems and prevent them from recurring.
+
+9. Virtualization
+====
+A virtualization dashboard offers a look at the performance of virtual machines (VMs) across an enterprise. The dashboard enables NOC team members to evaluate VMs’ memory, CPU, and other pertinent information.
+
+10. Storage
+====
+A storage dashboard provides details about an enterprise’s storage pools, nodes, tiers, utilization, and latency. It helps a NOC team view an enterprise’s storage capacity at a given moment and ensure the enterprise can consistently get the most value out of its storage.
+
+Tips to Choose the Right Enterprise Dashboards
+====
+The aforementioned examples illustrate dashboards that may help your NOC team boost its productivity and efficiency. Yet, your NOC team must evaluate all available dashboards closely to determine which ones can best accommodate its everyday operations.
+
+Here are three tips to help your NOC team decide which dashboards to implement.
+====
+1. Evaluate the Dashboard’s Purpose
+
+Consider what a dashboard can do and how a NOC team can use it. Dashboards are generally analytical, operational, or strategic. If a NOC team examines what data it needs, the team can then determine which dashboards can help it obtain the right information day after day.
+
+2. Start Slow
+
+Begin with a few KPI dashboards and leverage new ones as your needs grow. This helps minimize the risk of information overload that can otherwise hinder a NOC team’s ability to retrieve data and generate meaningful insights from it.
+
+3. Add or Subtract Dashboards As Needed
+
+If dashboards are not delivering the intended results, they can be modified, or a NOC team can stop using them. On the other hand, if additional dashboards are necessary, a NOC team should implement them into their everyday operations right away.
+
+Deploy Comprehensive Incident Dashboards and Reports
+====
+The AlertOps platform offers incident dashboards and reports that enable a NOC team to analyze incidents and respond accordingly. That way, a NOC team can use these dashboards and reports to stay up to date on incidents and ensure they are resolved as quickly and efficiently as possible.
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/noc-dashboard-examples/
 
 Read more:
 ====
